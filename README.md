@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="http://www.github.com/hua-bang"><img src="https://activity-graph.herokuapp.com/graph?username=hua-bang&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" " alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/hua-bang"><img src="https://activity-graph.herokuapp.com/graph?username=hua-bang&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" alt="GitHub Commits Graph" /></a>
