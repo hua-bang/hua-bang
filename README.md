@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=hua-bang&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-- 🌱 I’m currently learning JavaScript, Vue, Node.js, etc. 
+- 🌱 I’m currently learning JavaScript, React, Vue, Node.js, etc. 
 - ✨ I'm currently learning and share on my blog.
 
 ### Technologies:
