@@ -28,6 +28,9 @@
 😄 Learning to learn, who is very happy.
 
 🤔 If what you want doesn't exist yet, make it yourself.
+
+⌚️ Your time is limited, so don't waste it living someone else's life.
+
 <!--
 **hua-bang/hua-bang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
