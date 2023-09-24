@@ -1,9 +1,16 @@
-### Hello ~ 👋
+### Hello 👋, here is 华铧 ~ 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=hua-bang&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=hua-bang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hua-bang&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
+
+
+I am a front-end development engineer, currently working at ByteDance. 
+
+- 🧑‍💼 My work involves front-end engineering, front-end tracking, and component abstraction.
 - 🌱 I’m currently learning JavaScript, React, Vue, Node.js, etc. 
-- ✨ I'm currently learning and share on my blog.
+- ✨ I'm currently learning and share on my [blog](https://hua-bang.github.io/blog/).
+- 🤔 I am a lifelong learner and have a passion for programming, artificial intelligence and computer graphics, philosophy, economics, as well as information science.
 
 ### Technologies:
 
@@ -45,5 +52,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="http://www.github.com/hua-bang"><img src="https://activity-graph.herokuapp.com/graph?username=hua-bang&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" alt="GitHub Commits Graph" /></a>
