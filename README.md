@@ -31,6 +31,11 @@ I am a front-end development engineer, currently working at ByteDance.
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000?&logo=Webstorm&logoColor=179EDC)
 ![IntellijIDEA](https://img.shields.io/badge/-Intellij%20IDEA-000?&logo=Webstorm&logoColor=FC444F)
 
+### My Log Note
+- [react-book](https://hua-bang.github.io/react-book/)
+- [frontend-guidebook](https://hua-bang.github.io/frontend-guidebook/)
+- [TypeScript-Note](https://hua-bang.github.io/TypeScript-Note/)
+
 ### Final
 😄 Learning to learn, who is very happy.
 
@@ -38,17 +43,3 @@ I am a front-end development engineer, currently working at ByteDance.
 
 ⌚️ Your time is limited, so don't waste it living someone else's life.
 
-<!--
-**hua-bang/hua-bang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
