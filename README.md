@@ -1,4 +1,4 @@
-### Hello 👋, here is 华铧 ~ 
+### Hello 👋, here is [华铧](https://bio.link/huabang) ~ 
 
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=hua-bang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hua-bang&layout=compact&theme=buefy&hide_border=true" /> |
@@ -42,7 +42,3 @@ I am a front-end development engineer, currently working at ByteDance.
 🤔 If what you want doesn't exist yet, make it yourself.
 
 ⌚️ Your time is limited, so don't waste it living someone else's life.
-
-### Link
-- [华铧](https://bio.link/huabang)
-
