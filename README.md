@@ -1,8 +1,8 @@
 ### Hello 👋, here is [华铧](https://bio.link/huabang) ~ 
 
 
-| <img align="center" src="https://pixel-profile.vercel.app/api/github-stats?username=hua-bang" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hua-bang&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------- | ------------- |
+| <img align="center" src="https://pixel-profile.vercel.app/api/github-stats?username=hua-bang" alt="Anurag's github stats" /> |
+| ------------- |
 
 
 I am a front-end development engineer, currently working at ByteDance. 
